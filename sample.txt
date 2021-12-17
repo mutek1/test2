@@ -1,2 +1,2 @@
 
-hello world sample git clone jenkins
+hello world sample git clone
